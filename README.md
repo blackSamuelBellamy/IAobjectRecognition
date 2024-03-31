@@ -1,0 +1,1 @@
+## Reconocimiento de objetos con TensorFlow.js y modelo de Machine learning entrenado.
